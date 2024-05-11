@@ -2,6 +2,8 @@
 
 This dataset consists the data from Nov 2017 - Jan 2022. Ken Jee has gathered some of this data via the YouTube API and the rest from his specific analytics.
 
+Dataset Link:https://www.kaggle.com/datasets/kenjee/ken-jee-youtube-data/code
+
 1) Aggregated Metrics By Video - This has all the topline metrics from my channel from its start (around 2015 to Jan 22 2022). I didn't post my first video until around
 2) Aggregated Metrics By Video with Country and Subscriber Status - This has the same data as aggregated metrics by video, but it includes dimensions for which country people are viewing from and if the viewers are subscribed to the channel or not.
 3) Video Performance Over Time - This has the daily data from each of my videos.
